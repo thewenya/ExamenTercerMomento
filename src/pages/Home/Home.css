@@ -23,7 +23,13 @@
   font-size: 1.25rem;
   font-weight: 600;
   color: #f1f5f9;
-  margin: 0;
+  margin: 0;  
+}
+
+.logo:hover {
+  color: #9b9b9b;
+  transition: ease-in-out 0.3s;
+  
 }
 
 .botones-nav {
@@ -96,13 +102,13 @@
   border: 1px solid rgba(71, 85, 105, 0.3);
   border-radius: 12px;
   padding: 2rem 1.5rem;
-  transition: all 0.3s ease;
+  
 }
 
 .tarjeta-caracteristica:hover {
   background: rgba(8, 10, 14, 0.7);
   border-color: rgba(71, 85, 105, 0.5);
-  transform: translateY(-4px);
+  
 }
 
 .titulo-tarjeta {

@@ -27,7 +27,7 @@ const Home = () => {
             Un espacio diseñado para simplificar tus tareas y potenciar tu
             productividad. Empieza en segundos.
           </p>
-          <Botton text="Comenzar Ahora" size="large" variant="primary" />
+          <Botton  text="Comenzar Ahora" size="large" variant="primary" />
         </section>
 
         <section className="seccion-caracteristicas">
